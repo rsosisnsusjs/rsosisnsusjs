@@ -18,4 +18,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Languages
 
-<a href="https://github.com/rsosisnsusjs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsosisnsusjs&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=7d4ec4&hide_border=true&locale=en" alt="Top Languages" /></a>
+<a href="https://github.com/rsosisnsusjs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsosisnsusjs&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=402b74&hide_border=true&locale=en" alt="Top Languages" /></a>
